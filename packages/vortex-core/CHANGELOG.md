@@ -1,5 +1,12 @@
 # @vortexjs/core
 
+## 2.4.1
+
+### Patch Changes
+
+- 2d4f40a: Fix signal equality check returning true for signals with different keys
+- ab7aa14: Fix needless initial invalidation in derive and effect
+
 ## 2.4.0
 
 ### Minor Changes
