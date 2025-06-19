@@ -1,5 +1,17 @@
 # @vortexjs/bun-example
 
+## 1.5.1
+
+### Patch Changes
+
+- Updated dependencies [d9db531]
+- Updated dependencies [d9db531]
+- Updated dependencies [d9db531]
+- Updated dependencies [2d4f40a]
+- Updated dependencies [ab7aa14]
+  - @vortexjs/core@2.4.1
+  - @vortexjs/dom@2.0.1
+
 ## 1.5.0
 
 ### Minor Changes
