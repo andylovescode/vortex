@@ -1,5 +1,15 @@
 # @vortexjs/core
 
+## 2.4.1
+
+### Patch Changes
+
+- d9db531: Remove unused children field in JSXComponent, as it's already in the props, and is never set
+- d9db531: Introduce new dependency on vortex common
+- d9db531: Make Lifetime an ultraglobal reference
+- 2d4f40a: Fix signal equality check returning true for signals with different keys
+- ab7aa14: Fix needless initial invalidation in derive and effect
+
 ## 2.4.0
 
 ### Minor Changes
