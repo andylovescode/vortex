@@ -1,5 +1,11 @@
 # @vortexjs/discovery
 
+## 0.1.3
+
+### Patch Changes
+
+- 1f8e9da: Reformat
+
 ## 0.1.2
 
 ### Patch Changes
