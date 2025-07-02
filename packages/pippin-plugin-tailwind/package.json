@@ -2,7 +2,10 @@
 	"name": "@vortexjs/pippin-plugin-tailwind",
 	"type": "module",
 	"license": "MIT-0",
-	"contributors": ["andylovescode", "TailwindCSS Developers"],
+	"contributors": [
+		"andylovescode",
+		"TailwindCSS Developers"
+	],
 	"repository": {
 		"url": "https://github.com/andylovescode/vortex"
 	},
@@ -31,5 +34,5 @@
 			"require": "./dist/index.cjs"
 		}
 	},
-	"version": "0.0.0"
+	"version": "0.0.1"
 }
