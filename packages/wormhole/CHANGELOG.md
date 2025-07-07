@@ -1,5 +1,31 @@
 # @vortexjs/wormhole
 
+## 0.2.0
+
+### Minor Changes
+
+- 4584f81: Proper errors!
+
+### Patch Changes
+
+- 1f8e9da: Migrate to Pippin internally
+- 1f8e9da: Reformat
+- b02ed79: Use internal state class for code simplicity
+- Updated dependencies [4584f81]
+- Updated dependencies [dee619e]
+- Updated dependencies [0885d49]
+- Updated dependencies [1f8e9da]
+- Updated dependencies [dee619e]
+- Updated dependencies [e53e405]
+- Updated dependencies [1f8e9da]
+  - @vortexjs/pippin@0.1.0
+  - @vortexjs/core@2.5.0
+  - @vortexjs/common@0.1.0
+  - @vortexjs/dom@2.0.4
+  - @vortexjs/ssr@0.0.4
+  - @vortexjs/discovery@0.2.0
+  - @vortexjs/pippin-plugin-tailwind@0.0.1
+
 ## 0.1.2
 
 ### Patch Changes
