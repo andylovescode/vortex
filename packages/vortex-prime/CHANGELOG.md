@@ -1,5 +1,19 @@
 # @vortexjs/prime
 
+## 1.3.4
+
+### Patch Changes
+
+- 1f8e9da: Reformat
+- Updated dependencies [dee619e]
+- Updated dependencies [0885d49]
+- Updated dependencies [1f8e9da]
+- Updated dependencies [dee619e]
+- Updated dependencies [1f8e9da]
+  - @vortexjs/core@2.5.0
+  - @vortexjs/common@0.1.0
+  - @vortexjs/dom@2.0.4
+
 ## 1.3.3
 
 ### Patch Changes

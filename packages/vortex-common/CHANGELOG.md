@@ -1,5 +1,16 @@
 # @vortexjs/common
 
+## 0.1.0
+
+### Minor Changes
+
+- 0885d49: Add new hasher
+- 1f8e9da: Introduce description to unreachable state
+
+### Patch Changes
+
+- 1f8e9da: Reformat
+
 ## 0.0.3
 
 ### Patch Changes
